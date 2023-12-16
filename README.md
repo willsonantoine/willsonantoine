@@ -8,3 +8,8 @@
 willsonantoine/willsonantoine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- uses: lowlighter/metrics@latest
+  with:
+    plugin_languages: yes
+    plugin_languages_indepth: yes
+    commits_authoring: firstname lastname, username, username@users.noreply.github.com
