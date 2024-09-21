@@ -18,6 +18,7 @@ Bonjour et bienvenue sur mon profil GitHub ! Je suis Willson Vulembere, un jeune
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
 - ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white) React.js
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) Next.js
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) Laravel
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) Nginx
 - ![Certbot](https://img.shields.io/badge/Certbot-004b49?style=flat&logo=certbot&logoColor=white) Certbot
