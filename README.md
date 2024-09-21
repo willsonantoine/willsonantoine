@@ -23,6 +23,12 @@ Bonjour et bienvenue sur mon profil GitHub ! Je suis Willson Vulembere, un jeune
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) Nginx
 - ![Certbot](https://img.shields.io/badge/Certbot-004b49?style=flat&logo=certbot&logoColor=white) Certbot
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) Ubuntu
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) Java
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) SQL Server
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) PHP
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+
 
 ## 🌍 Ce qui me passionne
 
